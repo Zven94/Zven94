@@ -5,11 +5,11 @@
     <hr style="margin: 2rem 0;" />
     
  <div style="display: flex; align-items: flex-end;">
-  <h2 style="flex-grow: 1;   color: #0366d6;">  👯 **Facts About Me** </h2>
+  <h2 style="flex-grow: 1;   color: #0366d6;">  👯 **About Me** </h2>
 </div>   
  Hello! I'm Nico Emiliano, a Full Stack Developer with a strong passion for learning and attention to detail. I'm an entrepreneur at heart, always seeking to generate improvements based on the circumstances. I would love to be part of your team!
 
- Currently, I am actively learning and growing as a developer. I have been working as a Mentor at Microverse, collaborating with developers from around the world on daily. This experience has not only enhanced my coding skills but also sharpened my communication and teamwork abilities. Starting in June 2022, I embarked on my coding journey by enrolling in various courses. Since then, I have made significant progress through dedication, overcoming challenges, and constantly striving for self-improvement. I joined Microverse to further expand my horizons.
+ Currently, I am actively learning and growing as a developer. I have been working as a Mentor at Microverse, collaborating with developers from around the world daily. This experience has not only enhanced my coding skills but also sharpened my communication and teamwork abilities. Starting in June 2022, Ibegann my coding journey by enrolling in various courses. Since then, I have made significant progress through dedication, overcoming challenges, and striving for self-improvement. I joined Microverse to further expand my horizons.
 
 Let's create something amazing together! Feel free to reach out.
 <hr style="margin: 2rem 0;" />
@@ -26,6 +26,7 @@ Let's create something amazing together! Feel free to reach out.
 - Git
 - JEST
 - webpack
+- bootstrap
  
 <hr />
 <div style="display: flex; align-items: flex-end;">
